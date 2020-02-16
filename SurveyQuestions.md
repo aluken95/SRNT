@@ -28,7 +28,8 @@ Students were prompted with the following statement:
   1. Yes
   2. No  
     
-      
+ 
+        
 *Lifetime cigarette use*  
 
 "How old were you when you smoked a whole cigarette for the first time?"  
