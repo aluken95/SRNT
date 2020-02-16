@@ -6,7 +6,6 @@ In this repository you can find:
 * a PowerPoint file of our poster
 * [an enlarged photo of our Odds Ratio figure and table](https://github.com/aluken95/SRNT/blob/master/OddsRatio.md)
 * [Maryland's e-cigarette policy](https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx)
-* <a href="https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx#ESDs" target="_blank">Maryland's e-cigarette policy</a>
 * a Word Document enumerating the survey phrasing
 * [the official website for the Maryland YRBS/YTS](https://phpa.health.maryland.gov/ohpetup/Pages/YTRBS.aspx)
 * [the official CDC website for YRBS](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm)
