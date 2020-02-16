@@ -5,7 +5,9 @@ Thank you for stopping by our poster at the 2020 Society for Research on Nicotin
 In this repository you can find:
 * a PowerPoint file of our poster
 * an enlarged photo of our Odds Ratio figure
-* [Maryland's e-cigarette policy] (https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx)
+* [Maryland's e-cigarette policy](https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx)
 * a Word Document enumerating the survey phrasing
+* [the official website for the Maryland YRBS/YTS](https://phpa.health.maryland.gov/ohpetup/Pages/YTRBS.aspx)
+* [the official CDC website for YRBS](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm)
 
-
+For any further questions about the dataset or findings, please contact [insert]
