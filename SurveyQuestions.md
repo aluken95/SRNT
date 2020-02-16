@@ -3,10 +3,11 @@
 
 ## Substance use 
 
-*Past 30-day cannabis use*
-Students were prompted with the following statement: 
-**The next 3 questions ask about marijuana use. Marijuana is also called grass or pot.**
-“During the past 30 days, how many times did you use marijuana”
+*Past 30-day cannabis use*  
+
+Students were prompted with the following statement:   
+**The next 3 questions ask about marijuana use. Marijuana is also called grass or pot.**  
+“During the past 30 days, how many times did you use marijuana”  
   1. 0 times
   2. 1 or 2 times
   3. 3 to 9 times
@@ -17,7 +18,10 @@ Students were prompted with the following statement:
 
 This question was dichotomized to reflect any and no past 30-day cannabis use.
 
+
+
 *Lifetime e-cigarette use*
+
 Students were prompted with the following statement:
 **The next 5 questions ask about electronic vapor products, such as blu, NJOY, Vuse, MarkTen, Logic, Vapin Plus, eGo, and Halo. Electronic vapor products include e-cigarettes, e-cigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens.**
 "Have you ever used an electronic vapor product?"
