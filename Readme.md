@@ -4,7 +4,7 @@ Thank you for stopping by our poster at the 2020 Society for Research on Nicotin
 
 In this repository you can find:
 * a PowerPoint file of our poster
-* an enlarged photo of our Odds Ratio figure (https://github.com/aluken95/SRNT/blob/master/OddsRatio.md)
+* [an enlarged photo of our Odds Ratio figure and table](https://github.com/aluken95/SRNT/blob/master/OddsRatio.md)
 * [Maryland's e-cigarette policy](https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx)
 * a Word Document enumerating the survey phrasing
 * [the official website for the Maryland YRBS/YTS](https://phpa.health.maryland.gov/ohpetup/Pages/YTRBS.aspx)
