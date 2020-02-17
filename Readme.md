@@ -5,7 +5,7 @@ Thank you for stopping by our poster at the 2020 Society for Research on Nicotin
 Here you can find resources and references for our poster on the association between e-cigarette and cannabis use among Maryland high school students.
 
 In this repository you can find:
-* a PowerPoint file of our poster
+* [a PowerPoint file of our poster](https://github.com/aluken95/SRNT/blob/master/SRNT%20Poster_GitHub.pdf)
 * [an enlarged photo of our Odds Ratio figure and table](https://github.com/aluken95/SRNT/blob/master/OddsRatio.md)
 * [Maryland's e-cigarette policy](https://health.maryland.gov/notobaccosalestominors/Pages/Tobacco%2021%20FAQ.aspx)
 * [a list of the survey questions and options](https://github.com/aluken95/SRNT/blob/master/SurveyQuestions.md)
@@ -14,4 +14,4 @@ In this repository you can find:
 * [the official CDC website for YRBS](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm)
 
 
-For any further questions about the dataset or findings, please contact [insert]
+For any further questions about the dataset or findings, please contact Amanda Luken at aluken1@jhmi.edu 
